@@ -8,3 +8,4 @@ python CPN.py
 ```python 
 python SA-D.py
 ```
+&nbsp;&nbsp; The [csv file](https://github.com/HKjoe/Optimizing-for-Solar-Cells-Structure/blob/master/detailed_100_optmizitoin_results.csv) is detailed log of 100 optimization results, which includes optimal structures, IS and projected efficiency (IE). In the file, eta represents the improvement of our optimization results to base line. What's more, dup_num represents the repeated times of this result in 100 optimization results.
